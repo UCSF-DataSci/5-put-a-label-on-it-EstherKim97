@@ -1,0 +1,4 @@
+# AUC Scores - Part 2
+
+Random Forest AUC: 0.9758
+XGBoost AUC: 0.9956
